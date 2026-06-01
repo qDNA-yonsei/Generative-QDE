@@ -1,0 +1,5 @@
+*.pdf
+*.zip
+*.png
+.idea/
+.DS_Store
